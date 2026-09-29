@@ -1,0 +1,5 @@
+METHOD: rankseg_dep
+PARAMS:
+  allow_overlap: False
+  opt_metric: dice
+  theta: 300
